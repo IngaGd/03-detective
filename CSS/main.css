@@ -60,4 +60,10 @@ body {
     padding: 18px; 
     text-decoration: none; 
     margin-left: 115px;
+    transition: all 0.7s;
+}
+
+.btn:hover {
+    background-color: #464F59;
+    text-decoration: underline 2px #EBECEE;
 }
